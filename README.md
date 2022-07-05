@@ -36,3 +36,6 @@ In this project we merge the NRC Emotion Intensity Lexicon and Persian Sentiment
 The resulting table can be downloaded from : [PersianSWN-NRC-emotion-lexicon.csv](https://github.com/Reyhan96/NRC-SWN-Presian-Lexicon/blob/main/PersianSWN-NRC-emotion-lexicon.csv)
 
 Sample rows of resulting table:
+
+![Persian Emotion Intensity Lexicon](https://github.com/Reyhan96/NRC-SWN-Presian-Lexicon/blob/main/Persian%20emotion%20intensity%20lexicons.png)
+

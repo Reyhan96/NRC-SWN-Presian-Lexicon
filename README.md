@@ -6,6 +6,14 @@ HesNegar is a project that developse the Persian Sentiment WordNet. For more inf
 
 You can download csv version of this resource from : ["PersianSWN.csv"](https://github.com/Text-Mining/Persian-Sentiment-Resources/blob/master/PersianSWN.csv).
 
+Each line (entry) has 5 fields :
+
+1.Synset id (based on Princeton WordNet standard format): IdNumber-PosTag e.g. 00001740-a
+2.Persian word.
+3.Confidence value (based on FerdowsNet WordNet).
+4.Positivity value.
+5.Negativity value.
+
 This is a sample of rows here.
 ````
 00001740-a	توانا	1.00	0.125	0.000

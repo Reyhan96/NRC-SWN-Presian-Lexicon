@@ -17,4 +17,13 @@ This is a sample of rows here.
 00051696-a	ناتوان	0.58	0.000	0.500
 ````
 
-## [NRC](http://www.saifmohammad.com/WebPages/AffectIntensity.htm)
+## [The NRC Emotion Intensity Lexicon (NRC-EIL)](http://www.saifmohammad.com/WebPages/AffectIntensity.htm)
+The NRC Emotion Intensity Lexicon (version 1) is a list of English words with real-valued scores of intensity for eight basic emotions (anger, anticipation, disgust, fear, joy, sadness, surprise, and trust)
+
+## NRC and PersianSWN
+
+In Persian Sentiment WordNet we have the persian tranlsation of each synset_id that exist in the [Princetone SWN](https://wordnet.princeton.edu/).
+In this project we merge the NRC Emotion Intensity Lexicon and Persian Sentiment WordNet to obtain the persian Emotion Intensity.
+
+Sample rows of resulting table:
+

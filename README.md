@@ -34,4 +34,5 @@ In Persian Sentiment WordNet we have the persian tranlsation of each synset_id t
 In this project we merge the NRC Emotion Intensity Lexicon and Persian Sentiment WordNet to obtain the persian Emotion Intensity.
 
 The resulting table can be downloaded from : [PersianSWN-NRC-emotion-lexicon.csv](https://github.com/Reyhan96/NRC-SWN-Presian-Lexicon/blob/main/PersianSWN-NRC-emotion-lexicon.csv)
+
 Sample rows of resulting table:

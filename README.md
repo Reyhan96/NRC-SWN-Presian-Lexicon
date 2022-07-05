@@ -33,5 +33,5 @@ The NRC Emotion Intensity Lexicon (version 1) is a list of English words with re
 In Persian Sentiment WordNet we have the persian tranlsation of each synset_id that exist in the [Princetone SWN](https://wordnet.princeton.edu/).
 In this project we merge the NRC Emotion Intensity Lexicon and Persian Sentiment WordNet to obtain the persian Emotion Intensity.
 
-The resulting table can be downloaded from : [PersianSWN-NRC-emotion-lexicon.csv]()
+The resulting table can be downloaded from : [PersianSWN-NRC-emotion-lexicon.csv](https://github.com/Reyhan96/NRC-SWN-Presian-Lexicon/blob/main/PersianSWN-NRC-emotion-lexicon.csv)
 Sample rows of resulting table:

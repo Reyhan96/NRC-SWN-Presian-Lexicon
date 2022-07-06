@@ -57,7 +57,7 @@ In Persian Sentiment WordNet, we have the Persian translation of each synset_id 
 In this project, we first merge the SentiWordNet and Persian Sentiment WordNet to get the translation of each english word.
 then we merge the result table with NRC emotion intensity to obtain the Persian Emotion Intensity.
 
-The resulting table can be downloaded from : [PersianSWN-NRC-emotion-lexicon.csv](https://github.com/Reyhan96/NRC-SWN-Presian-Lexicon/blob/main/PersianSWN-NRC-emotion-lexicon.csv)
+The resulting table can be downloaded from : [Persian_Emotion_Intensity_Lexicons.csv](https://github.com/Reyhan96/Presian-Emotion-Intensity-Lexicon/blob/main/Persian_Emotion_Intensity_Lexicons.csv)
 
 Sample rows of resulting table:
 

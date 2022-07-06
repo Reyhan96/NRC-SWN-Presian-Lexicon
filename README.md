@@ -16,7 +16,7 @@ Each line (entry) has 5 fields :
 
 This is a sample of rows here.
 ````
-00001740-a	توانا	1.00	0.125	0.000
+00001740-a	توانا	1.00  0.125	0.000
 00051373-a	توانا	0.45	0.375	0.250
 00001740-a	قادر	0.24	0.125	0.000
 00002098-a	عاجز	1.00	0.000	0.750
@@ -27,6 +27,17 @@ This is a sample of rows here.
 
 ## [The NRC Emotion Intensity Lexicon (NRC-EIL)](http://www.saifmohammad.com/WebPages/AffectIntensity.htm)
 The NRC Emotion Intensity Lexicon (version 1) is a list of English words with real-valued intensity scores for eight basic emotions (anger, anticipation, disgust, fear, joy, sadness, surprise, and trust).
+
+Here is a sample of this file:
+````
+word        emotion       emotion-intensity-score
+outraged    anger               0.964
+brutality   anger               0.959
+hatred      anger               0.953
+hateful     anger               0.940
+terrorize   anger               0.939
+infuriated  anger               0.938
+````
 
 ## NRC and PersianSWN
 
